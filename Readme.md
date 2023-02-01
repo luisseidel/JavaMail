@@ -1,0 +1,1 @@
+## Projeto para testes de envio de e-mail com Java Mail
